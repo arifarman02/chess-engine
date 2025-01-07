@@ -1,2 +1,2 @@
-# chess_engine
+# chess-engine
 Chess engine programmed in C++
