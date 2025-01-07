@@ -1,2 +1,2 @@
 # c-_chess
-Chess game programmed in C++
+Chess engine programmed in C++
